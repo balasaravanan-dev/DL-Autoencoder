@@ -90,8 +90,8 @@ summary(model, input_size=(1, 28, 28))
 
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print("Name: HARISHA S")
-    print("Register Number: 212224230087")
+    print("Name: BALA SARAVANAN K")
+    print("Register Number: 212224230031")
     for epoch in range(epochs):
         running_loss = 0.0
         for images, _ in loader:
